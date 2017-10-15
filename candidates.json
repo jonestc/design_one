@@ -1,0 +1,148 @@
+{
+	"results": [
+		{
+			"gender": "male",
+			"name": {
+				"title": "monsieur",
+				"first": "gaspard",
+				"last": "perrin"
+			},
+			"email": "gaspard.perrin@example.com",
+			"dob": "1983-07-09 13:11:04",
+			"registered": "2009-12-08 22:47:38",
+			"nat": "CH",
+			"skills": {
+				"languages": [ "php", "java", "ruby", "c" ]
+			},
+			"salary": "23000"
+		},
+		{
+			"gender": "male",
+			"name": {
+				"title": "mr",
+				"first": "sebastian",
+				"last": "moore"
+			},
+			"email": "sebastian.moore@example.com",
+			"dob": "1959-11-02 07:20:55",
+			"registered": "2008-10-30 15:59:53",
+			"nat": "GB",
+			"skills": {
+				"languages": [ "elixir", "erlang"]
+			},
+			"salary": "31000"
+		},
+		{
+			"gender": "female",
+			"name": {
+				"title": "ms",
+				"first": "melike",
+				"last": "arıcan"
+			},
+			"email": "melike.arıcan@example.com",
+			"dob": "1987-04-18 15:21:25",
+			"registered": "2011-01-21 03:55:11",
+			"nat": "TR",
+			"skills": {
+				"languages": [ "c++", "c#" ]
+			},
+			"salary": "24000"
+		},
+		{
+			"gender": "female",
+			"name": {
+				"title": "mrs",
+				"first": "ellen",
+				"last": "davidson"
+			},
+			"email": "ellen.davidson@example.com",
+			"dob": "1963-12-14 00:26:29",
+			"registered": "2014-10-15 06:46:48",
+			"nat": "IE",
+			"skills": {
+				"languages": [ "js", "es6", "ruby" ]
+			},
+			"salary": "42000"
+		},
+		{
+			"gender": "female",
+			"name": {
+				"title": "ms",
+				"first": "mackenzie",
+				"last": "patel"
+			},
+			"email": "mackenzie.patel@example.com",
+			"dob": "1970-12-06 03:29:51",
+			"registered": "2011-09-30 12:31:22",
+			"nat": "NZ",
+			"skills": {
+				"languages": [ "c", "assembly", "java" ]
+			},
+			"salary": "67000"
+		},
+		{
+			"gender": "female",
+			"name": {
+				"title": "miss",
+				"first": "lilou",
+				"last": "jean"
+			},
+			"email": "lilou.jean@example.com",
+			"dob": "1946-02-27 09:19:58",
+			"registered": "2013-10-18 09:25:00",
+			"nat": "FR",
+			"skills": {
+				"languages": [ "js", "php" ]
+			},
+			"salary": "28000"
+		},
+		{
+			"gender": "male",
+			"name": {
+				"title": "monsieur",
+				"first": "elliot",
+				"last": "lefebvre"
+			},
+			"email": "elliot.lefebvre@example.com",
+			"dob": "1987-04-01 01:15:48",
+			"registered": "2012-12-14 00:43:47",
+			"nat": "CH",
+			"skills": {
+				"languages": [ "lisp", "java" ]
+			},
+			"salary": "33000"
+		},
+		{
+			"gender": "male",
+			"name": {
+				"title": "mr",
+				"first": "miguel",
+				"last": "lemmen"
+			},
+			"email": "miguel.lemmen@example.com",
+			"dob": "1952-12-27 10:16:00",
+			"registered": "2012-02-16 13:31:10",
+			"nat": "NL",
+			"skills": {
+				"languages": [ "go", "node" ]
+			},
+			"salary": "29000"
+		},
+		{
+			"gender": "male",
+			"name": {
+				"title": "mr",
+				"first": "mariano",
+				"last": "herrero"
+			},
+			"email": "mariano.herrero@example.com",
+			"dob": "1958-04-14 21:41:56",
+			"registered": "2002-07-18 07:31:53",
+			"nat": "ES",
+			"skills": {
+				"languages": [ "f#", "haskell", "lisp" ]
+			},
+			"salary": "41000"
+		}
+	]
+}

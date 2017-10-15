@@ -1,0 +1,15 @@
+{
+    "require": {
+        "phpunit/phpunit": "*",
+        "phpunit/phpunit-story": "*",
+        "mockery/mockery": "*",
+        "phpunit/php-invoker": "*",
+        "phpunit/dbunit": "*",
+        "phpunit/phpunit-selenium": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jobs\\": ""
+        }
+    }
+}
