@@ -8,8 +8,8 @@ use Jobs\{ Candidates, Candidate, Vacancy };
 //var_dump($_SERVER['DOCUMENT_ROOT'] . '/design_one/candidates.json'); //exit();
 //echo "<br/>";
 //var_dump(file_exists($_SERVER['DOCUMENT_ROOT'] . '/design_one/candidates.json')); exit();
-//$candidates = new Candidates($_SERVER['DOCUMENT_ROOT'] . 'candidates.json');
-$candidates = new Candidates($_SERVER['DOCUMENT_ROOT'] . '/design_one/candidates.json');
+$candidates = new Candidates($_SERVER['DOCUMENT_ROOT'] . 'candidates.json');
+//$candidates = new Candidates($_SERVER['DOCUMENT_ROOT'] . '/design_one/candidates.json');
 // get candidates that earn over than 40k
 $vacancy = new Vacancy([40000]);
 
